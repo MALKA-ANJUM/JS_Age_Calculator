@@ -65,9 +65,9 @@ body{
     transition: max-height 2s, opacity 3s margin 250ms ease;
 }
 .age-calc.expand{
-    margin-top: 30px;
-    max-height: 1000px;
-    opacity: 1;
+	margin-top: 30px;
+	max-height: 1000px;
+	opacity: 1;
 }
 .age-calc .age-box{
 	position: relative;
